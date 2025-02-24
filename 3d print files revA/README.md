@@ -10,6 +10,8 @@ These two blog posts are great resources for understanding the angles involved w
 My folder and file names refer to the angle of the kumiko pieces being cut. I bought my blades from Pro Shop Hokuto, available in this catalog: [Pro Shop Hokuto Catalog](https://www5e.biglobe.ne.jp/~ttoishi/sub55.html).  
 
 In Google Translate, navigate to the section called **Leaf Plane (葉鉋)**, where you will find four blades for sale. The first one is the **Gomagara plane (ゴマガラ鉋)**, which has a blade angle of 60 degrees. This blade corresponds to my 45-degree angle.  
+![kumiko angle 45 from 60](https://github.com/user-attachments/assets/e78bd5d0-89e2-4e65-87e5-deb0a9a704c8)
+
 
 The blog posts describe well how the final kumiko leaf angle is a function of three factors:  
 1. The blade angle  
